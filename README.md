@@ -1,6 +1,4 @@
-Here’s an example of a beautiful and visually appealing README for your GitHub repository, incorporating emojis and detailed explanations:
 
----
 
 # 🚀 PumpFun Sniper Bot v1
 
