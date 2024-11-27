@@ -2,7 +2,7 @@ Here’s an example of a beautiful and visually appealing README for your GitHub
 
 ---
 
-# 🚀 PumpFun Sniper Bot
+# 🚀 PumpFun Sniper Bot v1
 
 A real-time **Solana transaction sniper bot** that listens to the blockchain for token creation events (specifically for `pump.fun` tokens) and logs relevant transaction details like creator and token account information. Perfect for tracking new token launches and reacting quickly to opportunities! 🏃‍♂️💨
 
